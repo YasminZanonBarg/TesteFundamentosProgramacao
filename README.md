@@ -29,8 +29,7 @@
 
 Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, ocódigo de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago
 
-<img src="img/Exercicio01.png">
-
+![Exercicio01.png](https://raw.githubusercontent.com/YasminZanonBarg/TesteFundamentosProgramacao/main/.github/Img/Exercicio01.png]
 
 ### **Exercício 02**
 
@@ -38,7 +37,7 @@ Faça um programa para ler o valor do raio de um círculo, e depois mostrar o va
 Fórmula: area = π . raio²
 Considere o valor de π = 3.14159
 
-<img src="img/Exercicio02.png">
+<img src="Img/Exercicio02.png">
 
 
 
