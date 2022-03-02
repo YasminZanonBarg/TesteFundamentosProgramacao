@@ -1,0 +1,12 @@
+import javax.swing.JOptionPane;
+
+public class Exercicio02 {
+
+	public static void main(String[] args) {
+		
+		double raio = Double.parseDouble(JOptionPane.showInputDialog(null, "Informe o valor de um raio para que seja possível +"
+				+ "informar a área do seu círculo"));
+		double area = 3.14159 * (raio * raio);
+		System.out.println("A=" + area);
+	}
+}
