@@ -29,7 +29,7 @@
 
 Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, ocódigo de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago
 
-![Exercicio01.png](https://raw.githubusercontent.com/YasminZanonBarg/TesteFundamentosProgramacao/main/.github/Img/Exercicio01.png]
+<img src=".github/img/Exercicio01.png">
 
 ### **Exercício 02**
 
@@ -37,7 +37,7 @@ Faça um programa para ler o valor do raio de um círculo, e depois mostrar o va
 Fórmula: area = π . raio²
 Considere o valor de π = 3.14159
 
-<img src="Img/Exercicio02.png">
+<img src=".github/img/Exercicio02.png">
 
 
 
@@ -46,14 +46,14 @@ Considere o valor de π = 3.14159
 ### **Exercício 03**
 Com base na tabela de preços a baixo, faça um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
 
-<img src="img/tabela.png">
-<img src="img/Exercicio03.png">
+<img src=".github/img/Tabela.png">
+<img src=".github/img/Exercicio03.png">
 
 
 ### **Exercício 04**
 Ler os valores dos três coeficientes "a", "b" e "c" de uma equação do segundo grau (ax² + bx + c = 0). Em seguida, mostrar os valores das raízes da equação, conforme exemplos, usando a fórmula de Baskara. Se a equação não possuir raízes (o valor de "a" não pode ser zero, e o valor de "delta" não pode ser negativo), mostrar uma mensagem "Impossivel calcular". 
 
-<img src="img/Exercicio04.png">
+<img src=".github/img/Exercicio04.png">
 
 
 
@@ -62,13 +62,13 @@ Ler os valores dos três coeficientes "a", "b" e "c" de uma equação do segundo
 ### **Exercício 05**
 Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senhaincorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve serimpressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002.
 
-<img src="img/Exercicio05.png">
+<img src=".github/img/Exercicio05.png">
 
 
 ### **Exercício 06**
 Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando essas informações conforme exemplo (use a palavra "in" para dentro do intervalo, e "out" para fora do intervalo).
 
-<img src="img/Exercicio06.png">
+<img src=".github/img/Exercicio06.png">
 
 
 
